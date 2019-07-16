@@ -1,0 +1,44 @@
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="373dp"
+        android:layout_height="wrap_content"
+        android:text="@string/welcome_string"
+        android:textSize="30sp"
+        android:visibility="visible"
+        android:layout_marginBottom="100dp"/>
+
+    <Button
+        android:id="@+id/btn_to_alc"
+        android:layout_width="155dp"
+        android:layout_height="82dp"
+        android:layout_marginTop="100dp"
+        android:layout_marginBottom="50dp"
+        android:background="#FF9800"
+        android:layout_centerHorizontal="true"
+        android:text="@string/text_about_alc"
+        android:textColor="@android:color/black"
+        android:layout_below="@id/textView"/>
+
+    <Button
+        android:id="@+id/btn_to_profile"
+        android:layout_width="174dp"
+        android:layout_height="83dp"
+        android:layout_marginTop="3dp"
+        android:layout_marginBottom="290dp"
+        android:background="#FF9800"
+        android:layout_centerHorizontal="true"
+        android:text="@string/text_my_profile"
+        android:textColor="@android:color/black"
+        android:layout_below="@id/btn_to_alc"
+        />
+
+</RelativeLayout>

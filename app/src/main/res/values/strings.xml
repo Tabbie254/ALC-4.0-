@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">My ANDELA 4.0</string>
+    <string name="welcome_string">Welcome to ALC 4.0</string>
+    <string name="text_about_alc">ABOUT ALC</string>
+    <string name="text_my_profile">MY PROFILE</string>
+    <string name="text_ALC4_phase1">ALC 4 Phase 1</string>
+    <string name="text_my_name">Tabitha Mutiso</string>
+    <string name="label_track">Track </string>
+    <string name="label_country">Country </string>
+    <string name="label_email">Email </string>
+    <string name="label_phone">Phone Number </string>
+    <string name="label_slack">Slack </string>
+    <string name="text_image_description">profile_image</string>
+    <string name="text_my_track">Android</string>
+    <string name="text_my_country">Kenya</string>
+    <string name="text_my_email">tabbie440@gmail.com</string>
+    <string name="text_my_phone_number">+245727391104</string>
+    <string name="text_my_slack">Tabitha Mutiso</string>
+    <string name="label_aboutALC">About ALC</string>
+    <string name="label_MyProfile">My Profile</string>
+</resources>
+
